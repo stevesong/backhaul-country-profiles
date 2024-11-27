@@ -6,7 +6,8 @@ Summary of who owns the physical high-speed networks that form the backbone of t
 ### Fibre networks and fibre network operators ###
  Commercial, NREN, Government, etc
 
-^  Operator                        ^  Website                                                                                                 ^  Km of Fibre ^  Services      ^  Email                                                                                             ^ Telephone           ^
+|  Operator                        |  Website                                                                                                 |  Km of Fibre |  Services      |  Email                                                                                             | Telephone           |
+|----------------------------------|----------------------------------------------------------------------------------------------------------|--------------|----------------|----------------------------------------------------------------------------------------------------|---------------------|
 | Balwin Fibre                     | https://www.balwinfibre.co.za/                                                                           |              | FTTH           |                                                                                                    |                     |
 | Celerity Networks                | https://www.celerity.africa/                                                                             |              | FTTH           | info@celerity.africa                                                                               | +27 (0)11 056 5118  |
 | Broadband Infraco                | https://infraco.co.za/                                                                                   |       14,863 | Backhaul       | info@infraco.co.za                                                                                 | +27 11 235 1600     |
@@ -33,14 +34,14 @@ Sources for fibre distances
 {{:backhaul-profiles:seacom.jpg?direct&200|Seacom / FibreCo}} 
 {{:backhaul-profiles:telkom-fibre-map-2012.jpg?direct&200|Telkom / Openserve}}
 
-== National Research and Education Network ==
+#### National Research and Education Network ####
 {{ :backhaul-profiles:sanren_2024_09_20.png?direct&200|}}
   * [TENET](https://www.tenet.ac.za/)
   * [SANREN](https://www.sanren.ac.za/)
 South Africa's NREN is divided between two organisations: TENET and SANREN.  TENET is the operational arm of the NREN owned by the universities themselves  and SANREN is the government side of the NREN providing infrastructure funding and other services.
 
 
-== Satellite operators ==
+#### Satellite operators ####
 Summary of satellite services available in the country
 
 ##  Industry Associations ##
@@ -76,25 +77,25 @@ WAPA  is a non-profit trade association acting as a collective voice for the wir
     * Location:
       * Dimension Data, Newton Park
 ## Building Backhaul ##
-== Suppliers ==
+#### Suppliers ####
   * Vulatel https://www.vulatel.co.za/our-footprint/
   * FibreUp https://fibreup.com/network-teams/
 
 
-== Fibre ==
-== Wireless ==
+#### Fibre ####
+#### Wireless ####
   * [Scoop](https://scoop.co.za/) - Ubiquiti, Mikrotik, Cambium, Mimosa, Radwin 
   * [Miro](https://miro.co.za) - Ubiquiti, Mikrotik, Cambium
   * [tech.co.za](https://tech.co.za/product-category/networking/) - Ubiquiti, Mikrotik, Cambium
-== Other ==
+#### Other ####
 
 ### Costs ###
 Where available, typical construction costs
 
 ### Regulatory Issues ###
-== Licensing ==
-== Rights of Way ==
-== Other considerations ==
+#### Licensing ####
+#### Rights of Way ####
+#### Other considerations ####
 
 ## Mapping Backhaul ##
 
