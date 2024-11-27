@@ -1,1 +1,153 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"JINX Parklands"},"geometry":{"coordinates":[28.036525096513856,-26.142956652537265],"type":"Point"}},{"type":"Feature","properties":{"name":"JINX Samrand"},"geometry":{"coordinates":[28.13936074946315,-25.928355157092597],"type":"Point"}},{"type":"Feature","properties":{"name":"JINX Isando"},"geometry":{"coordinates":[28.197573457670188,-26.137661261452834],"type":"Point"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JINX Isando",
+        "host": "Teraco JB1 East",
+        "Short Name": "ISO"
+      },
+      "geometry": {
+        "coordinates": [28.197573457670188, -26.137661261452834],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "JINX Parklands", "Short Name": "PKL" },
+      "geometry": {
+        "coordinates": [28.036525096513856, -26.142956652537265],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JINX Samrand",
+        "host": "Africa Data Centres",
+        "Short Name": "SMR"
+      },
+      "geometry": {
+        "coordinates": [28.139732017843443, -25.929356843976777],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "JINX Halfway House (HWH)", "Short Name": "HWH" },
+      "geometry": {
+        "coordinates": [28.118611992788487, -26.01466409439164],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JINX Digital Park Africa",
+        "host": "Digital Park Africa",
+        "Short Name": "DPA"
+      },
+      "geometry": {
+        "coordinates": [28.151923564355315, -25.928200717768192],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JINX ADC Samrand",
+        "host": "Africa Data Centres",
+        "Short Name": "ADC2"
+      },
+      "geometry": {
+        "coordinates": [28.139243052916356, -25.930559810369644],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JINX NTT JOH1",
+        "host": "NTT",
+        "Short Name": "JOH"
+      },
+      "geometry": {
+        "coordinates": [28.139843724306843, -25.920386095907105],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CINX Bree STreet",
+        "host": "",
+        "Short Name": "BRE"
+      },
+      "geometry": {
+        "coordinates": [18.4205771137988, -33.91850429048641],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CIND Diep Rivier",
+        "host": "",
+        "Short Name": "DPR"
+      },
+      "geometry": {
+        "coordinates": [18.47893986004607, -34.037537070672954],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CINX Newlands",
+        "host": "",
+        "Short Name": "NLS"
+      },
+      "geometry": {
+        "coordinates": [18.46460244052122, -33.97027064499069],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DINX Umhlanga",
+        "host": "Internet Solutions",
+        "Short Name": "UMH"
+      },
+      "geometry": {
+        "coordinates": [31.067939415169235, -29.729814186461148],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DINX Riverhose Valley",
+        "host": "Teraco DB1",
+        "Short Name": "RHV"
+      },
+      "geometry": {
+        "coordinates": [30.991671878612294, -29.778533759557632],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NMBINX Newton Park",
+        "host": "",
+        "Short Name": "NWT"
+      },
+      "geometry": {
+        "coordinates": [25.574057880250706, -33.950675097051665],
+        "type": "Point"
+      }
+    }
+  ]
+}
