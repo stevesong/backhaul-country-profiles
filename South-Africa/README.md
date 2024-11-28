@@ -78,6 +78,9 @@ IXP [map for South Africa](South-Africa-IXPs.geojson)
 
 ## Datacentres
 
+Datacentre [map for South Africa](South-Africa-datacentres.geojson)
+
+
 | Company                                                      | Subsidiary                                               | Short Name                                                                                                                                                                                         | White Space | IT Power | Address                                 | Address2             | City         | Country      | PostCode | Latitude    | Longitude  | Tel                 |
 | ------------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | --------------------------------------- | -------------------- | ------------ | ------------ | -------- | ----------- | ---------- | ------------------- |
 | [Digital Realty](https://www.digitalrealty.com/)             | [Teraco](https://www.teraco.co.za/)                      | JB1 East & West                                                                                                                                                                                    | 20000       |          | 5 Brewery Street                        | Isando               | Johannesburg | South Africa |          | -26.138     | 28.19802   | +27 (0) 11 573 2800 |
