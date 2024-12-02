@@ -12,7 +12,7 @@ Commercial, NREN, Government, etc
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ------------------------------------------------------------------------------------------------ | ------------------ |
 | [Balwin Fibre](https://www.balwinfibre.co.za/)                                                                                                                    |             | FTTH     |                                                                                                  |                    |
 | [Celerity Networks](https://www.celerity.africa/)                                                                                                                 |             | FTTH     | <info@celerity.africa>                                                                           | +27 (0)11 056 5118 |
-| [Broadband Infraco](https://infraco.co.za/) - [map](fibre/BroadbandInfraco.geojson)                                                                               | 14,863      | Backhaul | <info@infraco.co.za>                                                                             | +27 11 235 1600    |
+| [Broadband Infraco](https://infraco.co.za/) - [<img src="../../icons/map.png">](fibre/BroadbandInfraco.geojson),                                                                             | 14,863      | Backhaul | <info@infraco.co.za>                                                                             | +27 11 235 1600    |
 | [Clear Access](http://clearaccess.io/)                                                                                                                            |             | FTTH     | [web](http://clearaccess.io/company/contact-us.php)                                              |                    |
 | [MTN (Bayobab)](https://bayobab.africa/)                                                                                                                          | 23,000      | Backhaul | [web](https://bayobab.africa/connect-with-us/)                                                   |                    |
 | [Vodacom Business](https://www.vodacombusiness.co.za/business/solutions/carrier-services)                                                                         | 33,000      | Backhaul | [web](https://www.vodacombusiness.co.za/cloud/business/leads/callback?PRODUCT=Carrier%20Connect) |                    |
@@ -138,3 +138,5 @@ Open data GIS downloadable version.
 IXPs, CDNs, and Datacentres
 Locations of IXPs, CDNs, and datacentres in the country
 Contact details
+
+<a href="https://www.flaticon.com/free-icons/map" title="map icons">Map icons created by Freepik - Flaticon</a>
