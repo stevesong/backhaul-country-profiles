@@ -5,17 +5,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Secondary_Network",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": -1,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "Name": "Secondary_Network"
       },
       "geometry": {
         "type": "MultiLineString",
@@ -223,17 +213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Core_Network",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": -1,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "Name": "Core_Network"
       },
       "geometry": {
         "type": "MultiLineString",
