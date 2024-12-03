@@ -8,20 +8,20 @@ Summary of who owns the physical high-speed networks that form the backbone of t
 
 Commercial, NREN, Government, etc
 
-| Operator                                                                                                                                                          | Km of Fibre | Services | Email                                                                                            | Telephone          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ------------------------------------------------------------------------------------------------ | ------------------ |
-| [Balwin Fibre](https://www.balwinfibre.co.za/)                                                                                                                    |             | FTTH     |                                                                                                  |                    |
-| [Celerity Networks](https://www.celerity.africa/)                                                                                                                 |             | FTTH     | <info@celerity.africa>                                                                           | +27 (0)11 056 5118 |
-| [Broadband Infraco](https://infraco.co.za/) [![map](../icons/map.svg)](fibre/BroadbandInfraco.geojson)                                                                             | 14,863      | Backhaul | <info@infraco.co.za>                                                                             | +27 11 235 1600    |
-| [Clear Access](http://clearaccess.io/)                                                                                                                            |             | FTTH     | [web](http://clearaccess.io/company/contact-us.php)                                              |                    |
-| [MTN (Bayobab)](https://bayobab.africa/)                                                                                                                          | 23,000      | Backhaul | [web](https://bayobab.africa/connect-with-us/)                                                   |                    |
-| [Vodacom Business](https://www.vodacombusiness.co.za/business/solutions/carrier-services)                                                                         | 33,000      | Backhaul | [web](https://www.vodacombusiness.co.za/cloud/business/leads/callback?PRODUCT=Carrier%20Connect) |                    |
-| [Frogfoot](https://www.frogfoot.co.za/)                                                                                                                           |             | Backhaul | [web](https://www.frogfoot.co.za/contact-us/)                                                    |                    |
+| Operator                                                                                                                                                                             | Km of Fibre | Services | Email                                                                                            | Telephone          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | -------- | ------------------------------------------------------------------------------------------------ | ------------------ |
+| [Balwin Fibre](https://www.balwinfibre.co.za/)                                                                                                                                       |             | FTTH     |                                                                                                  |                    |
+| [Celerity Networks](https://www.celerity.africa/)                                                                                                                                    |             | FTTH     | <info@celerity.africa>                                                                           | +27 (0)11 056 5118 |
+| [Broadband Infraco](https://infraco.co.za/) [![map](../icons/map.svg)](fibre/BroadbandInfraco.geojson)                                                                               | 14,863      | Backhaul | <info@infraco.co.za>                                                                             | +27 11 235 1600    |
+| [Clear Access](http://clearaccess.io/)                                                                                                                                               |             | FTTH     | [web](http://clearaccess.io/company/contact-us.php)                                              |                    |
+| [MTN (Bayobab)](https://bayobab.africa/)                                                                                                                                             | 23,000      | Backhaul | [web](https://bayobab.africa/connect-with-us/)                                                   |                    |
+| [Vodacom Business](https://www.vodacombusiness.co.za/business/solutions/carrier-services)                                                                                            | 33,000      | Backhaul | [web](https://www.vodacombusiness.co.za/cloud/business/leads/callback?PRODUCT=Carrier%20Connect) |                    |
+| [Frogfoot](https://www.frogfoot.co.za/)                                                                                                                                              |             | Backhaul | [web](https://www.frogfoot.co.za/contact-us/)                                                    |                    |
 | [Liquid Intelligent Technologies](https://za.liquid.tech/) [![map](../icons/map.svg)](fibre/Neotel-fibre-map.jpg)                                                                    | 21,000      | Backhaul | <support@liquid.tech>                                                                            | +27 11 585 0000    |
 | [OpenServe](https://openserve.co.za/) [![map](../icons/map.svg)](fibre/Telkom_South_Africa.geojson)                                                                                  | 165,900     | Backhaul | [web](https://openserve.co.za/contact)                                                           |                    |
 | [Seacom / Wondernet](https://wondernet.co.za/office/how-to-use-our-coverage-map-to-check-if-fibre-is-available-in-your-area/) [![map](../icons/map.svg)](fibre/Seacom-WonderNet.png) | 4,000       | Backhaul | <info@seacom.com>                                                                                | +27 861 855 855    |
 | [Dark Fibre Africa](https://dfafrica.co.za/) [![map](../icons/map.svg)](fibre/DarkFibreAfrica.geojson)                                                                               | 14,000      | Backhaul | <info@dfafrica.co.za>                                                                            | +27 12 443 1000    |
-| [Metro Fibre](https://metrofibre.co.za)                                                                                                                           |             | Backhaul | <sales@MetroFibre.co.za>                                                                         | +27 87 151 4000    |
+| [Metro Fibre](https://metrofibre.co.za)                                                                                                                                              |             | Backhaul | <sales@MetroFibre.co.za>                                                                         | +27 87 151 4000    |
 
 Sources for fibre distances
 
@@ -30,7 +30,8 @@ Sources for fibre distances
 
 #### National Research and Education Network
 
-{{ :backhaul-profiles:sanren_2024_09_20.png?direct&200|}}
+[![map](../icons/map.svg)](fibre/SANReN_2024_09_20-1024x724.png)       
+
 
 - [TENET](https://www.tenet.ac.za/)
 - [SANREN](https://www.sanren.ac.za/)
@@ -79,7 +80,6 @@ IXP [map for South Africa](South-Africa-IXPs.geojson)
 ## Datacentres
 
 Datacentre [map for South Africa](South-Africa-datacentres.geojson)
-
 
 | Company                                                      | Subsidiary                                               | Short Name                                                                                                                                                                                         | White Space | IT Power | Address                                 | Address2             | City         | Country      | PostCode | Latitude    | Longitude  | Tel                 |
 | ------------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | --------------------------------------- | -------------------- | ------------ | ------------ | -------- | ----------- | ---------- | ------------------- |
