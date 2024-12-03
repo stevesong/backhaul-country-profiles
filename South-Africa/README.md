@@ -6,7 +6,7 @@ Summary of who owns the physical high-speed networks that form the backbone of t
 
 ### Fibre networks and fibre network operators
 
-Commercial, NREN, Government, etc
+A list of operators from whom wholesale backhaul may be purchased in South Africa. This is a complex landscape that involves operators who own their own fibre but also operators who resell capacity on other operators' networks. These options will vary depending on your location.  
 
 | Operator                                                                                                                                                                             | Km of Fibre | Services | Email                                                                                            | Telephone          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | -------- | ------------------------------------------------------------------------------------------------ | ------------------ |
@@ -30,12 +30,12 @@ Sources for fibre distances
 
 #### National Research and Education Network
 
-[![map](../icons/map.svg)](fibre/SANReN_2024_09_20-1024x724.png)       
-
+[![map](../icons/map.svg)](fibre/SANReN_2024_09_20-1024x724.png)
+  National Research and Education Networks or NRENs can make good partners for non-profit, community-centred connectivity providers as NRENs are also a kind of non-profit ISP for universities and research insititutions.  South Africa's NREN is divided between two organisations: TENET and SANREN. TENET is the operational arm of the NREN owned by the universities themselves and SANREN is the government side of the NREN providing infrastructure funding and other services.
 
 - [TENET](https://www.tenet.ac.za/)
 - [SANREN](https://www.sanren.ac.za/)
-  South Africa's NREN is divided between two organisations: TENET and SANREN. TENET is the operational arm of the NREN owned by the universities themselves and SANREN is the government side of the NREN providing infrastructure funding and other services.
+
 
 #### Satellite operators
 
