@@ -138,3 +138,7 @@ Open data GIS downloadable version.
 IXPs, CDNs, and Datacentres
 Locations of IXPs, CDNs, and datacentres in the country
 Contact details
+
+
+PDFs and Snaphots: https://www.zotero.org/groups/2403673/communitynetworks/collections/PNDK3CDK
+
