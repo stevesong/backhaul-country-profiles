@@ -1,5 +1,9 @@
 # Czech Republic
 
+## Important Links
+
+PDFs and snapshots of relevant documents and webpages, respectively, can be found here: https://www.zotero.org/groups/2403673/communitynetworks/collections/K9H67JS7
+
 ## Background
 
 Broadband in the Czech Republic
@@ -20,7 +24,6 @@ Responsible authorities
 
 
 
-
 ## Purchasing Backhaul
 
 Summary of who owns the physical high-speed networks that form the backbone of the country’s internet, along with how those networks interconnect internationally.
@@ -30,11 +33,101 @@ Summary of who owns the physical high-speed networks that form the backbone of t
 
 ### Fibre networks and fibre network operators
 
-A list of operators from whom wholesale backhaul may be purchased in COUNTRY NAME. This is a complex landscape that involves operators who own their own fibre but also operators who resell capacity on other operators' networks. These options will vary depending on your location.  
+
 
 
 ### Satellite Operators
 
+#### Starlink
+
+
+https://czechdaily.cz/elon-musk-is-expanding-into-the-czech-republic-starlink-satellite-connection-starts-in-september/
+
+https://developingtelecoms.com/telecom-technology/satellite-communications-networks/11755-starlink-acquires-license-for-satellite-internet-in-the-czech-republic.html
+
+##### Pricing
+
+Source https://www.starlink.com/cz/service-plans
+
+More Pricing Info: https://www.starlink-prices.com/
+
+
+
+**Rezidenční** 
+ Nejlepší pro domácnosti 
+ KLÍČOVÉ VLASTNOSTI
+Neomezená data
+Neměnná lokalita 
+1 249 Kč/měsíc
+
+**Residential**
+Best for households
+KEY FEATURES
+Unlimited data
+Fixed location
+1,249 CZK/month
+
+---
+
+**Roaming** 
+Ideální pro rekreační vozidla, digitální nomády, karavany a práci na cestách 
+ KLÍČOVÉ VLASTNOSTI
+Pokrytí po celé zemi
+K použití v pohybu
+Mezinárodní cestování
+Pokrytí na pobřeží
+Pozastavení služby 
+
+**Roaming**
+Ideal for RVs, digital nomads, RVs and working on the go
+KEY FEATURES
+Nationwide coverage
+For use on the go
+International travel
+Coastal coverage
+Suspension of service
+
+ROAMING – 50 GB
+1 050 Kč/měsíc
+
+ROAMING NEOMEZENÝ
+1 807 Kč/měsíc
+
+---
+
+**Lodě **
+Nejvhodnější pro námořní, záchranné služby a firmy orientované na mobilitu 
+ KLÍČOVÉ VLASTNOSTI
+Neomezená data v rámci kontinentu
+V pohybu + použití na otevřeném moři
+Priorita sítě
+Přednostní podpora 
+
+**Boats**
+Best for Maritime, Emergency Services and Mobility-Oriented Businesses
+KEY FEATURES
+Unlimited Data Within Continent
+On the Move + Offshore Use
+Network Priority
+Priority Support
+
+MOBILE PRIORITY – 50 GB
+7 052 Kč/měsíc
+
+MOBILE PRIORITY – 1 TB
+28 206 Kč/měsíc
+
+---
+
+ STARLINK PRO FIRMY 
+
+Spolehlivý vysokorychlostní internet pro firmy.
+Od 1 815 Kč za měsíc s poplatkem za hardware ve výši 58 300 Kč.
+
+STARLINK FOR BUSINESSES
+
+Reliable high-speed internet for businesses.
+From 1,815 CZK per month with a hardware fee of 58,300 CZK.
 
 
 ## Industry Associations
