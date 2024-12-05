@@ -6,12 +6,13 @@ Summary of who owns the physical high-speed networks that form the backbone of t
 
 ### Fibre networks and fibre network operators
 
-A list of operators from whom wholesale backhaul may be purchased in South Africa. This is a complex landscape that involves operators who own their own fibre but also operators who resell capacity on other operators' networks. These options will vary depending on your location.  
+A list of operators from whom wholesale backhaul may be purchased in South Africa. This is a complex landscape that involves operators who own their own fibre but also operators who resell capacity on other operators' networks. These options will vary depending on your location.
 
 | Operator                                                                                                                                                                             | Km of Fibre | Services | Email                                                                                            | Telephone          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | -------- | ------------------------------------------------------------------------------------------------ | ------------------ |
 | [Balwin Fibre](https://www.balwinfibre.co.za/)                                                                                                                                       |             | FTTH     |                                                                                                  |                    |
 | [Celerity Networks](https://www.celerity.africa/)                                                                                                                                    |             | FTTH     | <info@celerity.africa>                                                                           | +27 (0)11 056 5118 |
+| [CyberSmart](https://www.cybersmart.co.za/)                                                                                                                                          |             | FTTH/Backhaul     | [web](https://www.cybersmart.co.za/contact-us)                                                   | +27 (0)21 286 0123 |
 | [Broadband Infraco](https://infraco.co.za/) [![map](../icons/map.svg)](fibre/BroadbandInfraco.geojson)                                                                               | 14,863      | Backhaul | <info@infraco.co.za>                                                                             | +27 11 235 1600    |
 | [Clear Access](http://clearaccess.io/)                                                                                                                                               |             | FTTH     | [web](http://clearaccess.io/company/contact-us.php)                                              |                    |
 | [MTN (Bayobab)](https://bayobab.africa/)                                                                                                                                             | 23,000      | Backhaul | [web](https://bayobab.africa/connect-with-us/)                                                   |                    |
@@ -31,11 +32,10 @@ Sources for fibre distances
 #### National Research and Education Network
 
 [![map](../icons/map.svg)](fibre/SANReN_2024_09_20-1024x724.png)
-  National Research and Education Networks or NRENs can make good partners for non-profit, community-centred connectivity providers as NRENs are also a kind of non-profit ISP for universities and research insititutions.  South Africa's NREN is divided between two organisations: TENET and SANREN. TENET is the operational arm of the NREN owned by the universities themselves and SANREN is the government side of the NREN providing infrastructure funding and other services.
+National Research and Education Networks or NRENs can make good partners for non-profit, community-centred connectivity providers as NRENs are also a kind of non-profit ISP for universities and research insititutions. South Africa's NREN is divided between two organisations: TENET and SANREN. TENET is the operational arm of the NREN owned by the universities themselves and SANREN is the government side of the NREN providing infrastructure funding and other services.
 
 - [TENET](https://www.tenet.ac.za/)
 - [SANREN](https://www.sanren.ac.za/)
-
 
 #### Satellite operators
 
@@ -53,7 +53,7 @@ WAPA is a non-profit trade association acting as a collective voice for the wire
 
 ## Internet Exchange Points
 
-IXP [map for South Africa](South-Africa-IXPs.geojson)
+IXP map [![map](../icons/map.svg)](South-Africa-IXPs.geojson)
 
 - [JINX](https://www.inx.net.za/display/pub/JINX+-+Johannesburg+Internet+Exchange) - Johannesburg Internet Exchange
   - Locations:
